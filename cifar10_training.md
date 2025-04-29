@@ -234,3 +234,9 @@ The simple CNN we implemented achieves decent performance on the CIFAR-10 datase
 - Apply regularization methods like dropout
 
 This tutorial provides a starting point for experimenting with image classification using PyTorch.
+
+Here is a summarized tutorial video on training cifar-10 dataset with pytorch 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=g64gwDkfXjo" 
+title="Cifar10 Dataset with Pytorch" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
